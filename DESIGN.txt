@@ -1,0 +1,22 @@
+Game-Part1:Project Plan
+Victor Chen
+vyc4
+1/9/15
+
+
+Genre: Top Down Scrolling Shooter
+
+
+Name: For Freedom
+
+
+Goal: Blast and navigate your spaceship past obstacles and enemy ships to the alien forward base. Once there, battle their hordes of defenses to defeat them. 
+
+
+Mechanics: Move the ship on the screen with the four cardinal directions, and fire lasers from your ship to clear whatever is in front of you. 
+
+
+Levels: 
+1) Moving towards alien homeworld - classic scrolling, debris/mines and spaceships appear from above
+
+2) At homeworld - static location, must avoid attacks from all sides while destroying the core of their spaceship. 
